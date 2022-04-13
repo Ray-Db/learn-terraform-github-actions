@@ -10,6 +10,6 @@ jobs:
     steps:
     - uses: superbrothers/close-pull-request@v3
       with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        repo-token: vtOtIdaGcA3ptg.atlasv1.NbzJf7wspDngTLmD4WUoQAjA47XdjN0iOeLAHm5MzjzHchnAZy4L63vpyB6xEsApYq8
         # Optional. Post a issue comment just before closing a pull request.
         comment: "Hi! If you are following the Terraform GitHub Actions tutorial, please open the PR against [your personal fork](https://learn.hashicorp.com/tutorials/terraform/github-actions?in=terraform/automation#set-up-a-github-repository) of this repository. We will automatically close this PR, but if you intended to edit the example itself please feel free to re-open it."
