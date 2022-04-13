@@ -15,7 +15,7 @@ terraform {
     organization = "raycomp"
 
     workspaces {
-      name = "gh-actions-demo"
+      name = "gh-actions-demo-1"
     }
   }
 }
